@@ -15,7 +15,7 @@ class Structure{
 
 class Program
 {
-    public function startPoint($season, $championship, $clubID){
+    public function startPoint($season){
         $this->getData($season);
     }
 
